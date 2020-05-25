@@ -4,6 +4,6 @@ The results from the worldbank are in json format and I use the ajax json method
 
 It is built with both pure javaScript and Jquery. 
 How to run?
-All you need is your browser. Clone the repository or download as zip file and unzip.
-Open the index.html file using your browser.
-Enjoy
+## All you need is your browser. Clone the repository or download as zip file and unzip.
+## Open the index.html file using your browser.
+## Enjoy
